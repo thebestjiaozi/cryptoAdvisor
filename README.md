@@ -15,7 +15,7 @@ An AI-powered Telegram bot that delivers daily crypto trading advice using real-
 ---
 
 ## 📱 Demo  
-![Flow](demo.png)
+<img src="demo.png" alt="Demo" width="400"/>
 
 ---
 
