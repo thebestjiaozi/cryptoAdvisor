@@ -42,17 +42,11 @@ An AI-powered Telegram bot that delivers daily crypto trading advice using real-
     ```
 
 2. **Set up your config**
-    - Create a `config_secret.py` file based on the provided `config_template.py`.
     - Add your API keys and Telegram bot token.
 
 3. **Run the Telegram bot**
     ```bash
-    python telegram_listener.py
-    ```
-
-4. **Optional: Schedule automatic analysis**
-    ```bash
-    python scheduler.py
+    python main.py
     ```
 
 ---
